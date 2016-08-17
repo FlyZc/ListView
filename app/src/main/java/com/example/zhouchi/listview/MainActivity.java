@@ -9,7 +9,7 @@ import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
 
-    //onCreate
+    //onCreate Method
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
